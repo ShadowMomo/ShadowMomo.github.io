@@ -70,3 +70,5 @@ redcloth:
 
 gems:
   - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
